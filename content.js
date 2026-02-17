@@ -3,7 +3,7 @@ const content = {
   "hero": {
     "description": "AI 활용이 막막한 직장인에게 실무에 바로 적용 가능한 AI 협업 방법을 통해, 업무 생산성을 극대화하고 창의적인 일에 집중하는 즐거움을 제공합니다.",
     "name": "장휘덕",
-    "title": "AI 컨설턴트"
+    "title": "Salesforce & AI 컨설턴트"
   },
   "topics": {
     "sectionTitle": "AI 협업 전문 분야",
